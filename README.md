@@ -1,6 +1,7 @@
 # python-programming
 
 Python Installation
+
 We highly recommend using anaconda for installing python. Click here to go to Anaconda's download page. Make sure to download Python 3.6 version. If you are on a windows machine:
 
 Open the executable after download is complete and follow instructions.
