@@ -1,6 +1,25 @@
 # Python-Programming
 
-Python Installation
+This Repository includes basic python for data science notebooks. Content is as follow;
+
+Module 1 Basics of Python
+
+Module 2 Data Types and Data Structures
+
+Module 3 Data Frames
+
+Module 4 Data Manipulation
+
+Module 5 Outlier Detection
+
+Module 6 Missing Value Imputation
+
+Module 7 Visualization
+
+Assignments
+
+
+# Python Installation
 
 We highly recommend using anaconda for installing python. Click here to go to Anaconda's download page. Make sure to download Python 3.6 version. If you are on a windows machine:
 
@@ -29,3 +48,4 @@ Now we have our python environment all set up, we can start working on the assig
 
 jupyter notebook
 This should automatically open a tab in the default browser.
+
