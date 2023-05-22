@@ -1,4 +1,4 @@
-# python-programming
+# Python-Programming
 
 Python Installation
 
