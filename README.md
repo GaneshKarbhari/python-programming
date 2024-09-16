@@ -16,7 +16,7 @@ Module 6 Missing Value Imputation
 
 Module 7 Visualization
 
-Assignments
+Work Assignments
 
 
 # Python Installation
